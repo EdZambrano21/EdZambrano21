@@ -23,10 +23,10 @@
     <a href="mailto:ahmed.edzambranobm@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://www.linkedin.com/in/edzambrano21/">
+    <a href="https://www.linkedin.com/in/edzambrano1/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://wa.me/+584141791571">
+    <a href="https://wa.me/+573018760068">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
     </a>
     <a href="https://www.instagram.com/ed_zambrano21/">
